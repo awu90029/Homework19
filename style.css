@@ -1,0 +1,45 @@
+/* RESTS */
+footer{
+  padding: 20px 90px;
+  text-align: center;
+  clear: both;
+}
+
+/* GLOBAL CLASSES */
+.carousel-item {
+  width: auto;
+  height: 800px;
+  max-height: 800px;
+}
+
+.row{
+  margin: 50px 50px;
+  justify-content: center;
+}
+
+.pagination{
+  margin: 25px 10px;
+}
+
+
+/* CUSTOME CLASSES */
+.container{
+  padding: 25px;
+}
+ 
+.center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.product{
+  margin: 20px 10px;
+}
+
+.btn-group{
+  margin: auto 43%;
+  display: inline-block;
+  text-align: center;
+}
